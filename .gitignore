@@ -8,6 +8,6 @@
 /Output
 /Analyzer
 /FileSync
-/Project/Users
+#/Project/Users
 /.svn
 **/Thumbs.db
